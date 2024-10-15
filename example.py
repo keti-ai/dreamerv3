@@ -4,6 +4,8 @@ from functools import partial as bind
 import dreamerv3
 import embodied
 
+# initial commit by syh
+
 warnings.filterwarnings('ignore', '.*truncated to dtype int32.*')
 
 
